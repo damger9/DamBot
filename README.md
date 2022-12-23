@@ -1,6 +1,7 @@
 DamBot, my open sourced and publicly available discord bot. 
 
-Usage example:
+# Usage example:
+
 ```js
 const dambot = require('./src/index')
 
