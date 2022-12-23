@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "serverId": "",
+    "clientId": "",        
+    "developmentMode": true,
+
+    "database": {
+        "databaseLink": false,
+        "databaseUsername": "user",
+        "databasePassword": "password",
+        "databasePort": 27017
+    }
+}
