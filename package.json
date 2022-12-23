@@ -1,0 +1,28 @@
+{
+  "name": "dambot",
+  "version": "0.0.1",
+  "description": "Open sourced discord bot using discord.js.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damger9/open-source-discord-bot.git"
+  },
+  "keywords": [
+    "discordbot",
+    "opensourced",
+    "discordjs",
+    "nodejs"
+  ],
+  "author": "Not_H3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damger9/open-source-discord-bot/issues"
+  },
+  "homepage": "https://github.com/damger9/open-source-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
